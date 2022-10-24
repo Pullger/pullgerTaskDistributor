@@ -1,0 +1,8 @@
+[submodule "pullgerTaskDistributor__REST"]
+	path = pullgerTaskDistributor__REST
+	url = https://github.com/Pullger/pullgerTaskDistributor__REST.git
+	branch = NeoUKR
+[submodule "pullgerTaskDistributor__CORE"]
+	path = pullgerTaskDistributor__CORE
+	url = https://github.com/Pullger/pullgerTaskDistributor__CORE.git
+	branch = NeoUKR
